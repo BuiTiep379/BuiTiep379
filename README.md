@@ -1,4 +1,4 @@
-# Hi, I'm NGUYEN BUI TIEP 👋🏾 👩🏾‍💻
+# Hi, I'm NGUYEN BUI TIEP 👋🏾 
 
 <div align="center">
   <a href="https://github.com/BuiTiep379">
